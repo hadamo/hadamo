@@ -19,9 +19,9 @@
 
 - ⚡ Fun fact **most :panda_face: are made from :snake:**
 
-<br>
+
 <h3 align="center">Languages and Tools</h3>
-<br>
+
 <p align="center">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
@@ -42,6 +42,6 @@
 <h3 align="center">Stats</h3>
 
 <p width="100%">
-<img width="48%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadamo&layout=compact&hide=html" alt="hadamo" />
-<img width="48%" align="right" src="https://github-readme-stats.vercel.app/api?username=hadamo&show_icons=true" alt="hadamo" />
+<img width="47%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadamo&layout=compact&hide=html" alt="hadamo" />
+<img width="47%" align="right" src="https://github-readme-stats.vercel.app/api?username=hadamo&show_icons=true" alt="hadamo" />
 </p>
