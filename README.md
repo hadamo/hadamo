@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hádamo</h1>
-<h3 align="center">A computer student undergraduate from Brazil!</h3>
+<h3 align="center">A undergraduate computer science student from Brazil!</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadamo" alt="hadamo" /> </p>
 
