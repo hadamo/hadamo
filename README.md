@@ -17,7 +17,7 @@
 
 - Currently studying full stack development at [Rocketseat Bootcamp](https://www.rocketseat.com.br):rocket:
 
-- ⚡ Fun fact **most :panda_face: are made from :snake:**
+- ⚡ Fun fact **the most useful :panda_face: are made from a :snake:**
 
 
 <h3 align="center">Languages and Tools</h3>
