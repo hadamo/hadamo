@@ -8,7 +8,6 @@
 </p>
 
 
-- 👨‍💻 Most of my projects are available at my [Github](https://www.gitub.com/hadamo)
 
 - 📫 You can reache me at **hadamosieg@gmail.com**
 
