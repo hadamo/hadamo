@@ -1,5 +1,5 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/lhenrique42/lhenrique42/master/gifs/Hi.gif" width="30px">, I'm Hádamo</h1>
-<h3 align="center">A Computer Science student from Brazil!</h3>
+<h3 align="center">A Computer Science student</h3>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hadamo" alt="hadamo" />
