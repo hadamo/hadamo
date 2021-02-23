@@ -13,8 +13,6 @@
 
 - :smile: My hobbies are **programming :computer:, reading :books: and playing :video_game:**
 
-- :video_game: I'm also studying about game development with Unity in my spare time
-
 - Currently studying web development
 
 
