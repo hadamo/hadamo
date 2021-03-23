@@ -2,7 +2,6 @@
 <h3 align="center">A Computer Science student</h3>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hadamo" alt="hadamo" />
 <a href="https://www.linkedin.com/in/hadamo/"><img src="https://img.shields.io/badge/LinkedIn-informational?logo=linkedin"/></a>
 <a href="mailto:hadamosieg@gmail.com" target="_blank"><img src="http://img.shields.io/badge/Gmail-informational?color=darkred&logo=gmail&logoColor=white"/></a>
 </p>
