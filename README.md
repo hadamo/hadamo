@@ -9,7 +9,7 @@
 
 - 📫 You can reache me at **hadamosieg@gmail.com**
 
-- :smile: My hobbies are **programming :computer:, reading :books: and playing :video_game:**
+- :smile: My hobbies are **programming :computer:, reading :books: and playing :video_game:** not necessarily in that order*
 
 <h3 align="center">Stats</h3>
 
