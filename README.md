@@ -1,4 +1,4 @@
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/lhenrique42/lhenrique42/master/gifs/Hi.gif" width="30px">, I'm Hádamo</h1>
+<h1 align="center">Hi, I'm Hádamo</h1>
 <h3 align="center">A Computer Science student</h3>
 
 
@@ -7,15 +7,9 @@
 </p>
 
 
-
 - 📫 You can reache me at **hadamosieg@gmail.com**
 
 - :smile: My hobbies are **programming :computer:, reading :books: and playing :video_game:**
-
-- Currently studying web development
-
-
-
 
 <h3 align="center">Stats</h3>
 
